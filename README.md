@@ -1,0 +1,2 @@
+# ldapntlm
+Java NTLM implementation
